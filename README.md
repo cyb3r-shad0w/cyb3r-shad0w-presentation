@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cyb3r-shad0w !
-- 👀 I’m interested in programming language and cyber security
-- 🌱 I’m currently learning blockchain and exploiting techniques and also i'm improving my skills on java
+- 👀 I’m interested in ransomware and algorithmic trading
+- 🌱 I’m currently learning blockchain, exploiting techniques, how to develop ransomware(for studying purpose only) and also finance and algorithmic trading
 - 📫 How to reach me: theoliverqueen1@gmail.com
-
